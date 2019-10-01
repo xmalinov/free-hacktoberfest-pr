@@ -17,7 +17,7 @@ To contribute in a proper way so that I can merge the pull request:
 
 1. Star the repo! :star:
 2. Fork it. (Important!) [What is that?](https://help.github.com/articles/fork-a-repo/)
-3. Edit the ABOUT.md file using this template
+3. Edit the ABOUT.md file by adding this template at the end (insert your data to placeholders)
     ```
     #### --- 1 ---
     **Name**: [Your name](https://github.com/your_profile_url)
