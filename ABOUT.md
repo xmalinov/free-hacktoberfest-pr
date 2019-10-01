@@ -12,3 +12,16 @@
 **Interests**: Books and music
 
 **Location**: New Jersey, USA (but I am Brazilian)
+
+#### --- 2 ---
+**Name**: [Diego Silva](https://github.com/di3goCS)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: a year
+
+**Interests**: TV Series, games, music and mithology
+
+**Location**: Brazil, Irará
