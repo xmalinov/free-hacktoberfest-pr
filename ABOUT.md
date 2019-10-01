@@ -1,14 +1,14 @@
 # Tell the world about you
 
 #### --- 1 ---
-**Name**: [Alexander Malinov](https://github.com/xmalinov)
+**Name**: [Patricia Parra](https://github.com/pachicodes)
 
 **Programming Language**: JavaScript
 
 **Contributed to OSS**: yes
 
-**How long have you been programming**: more than 12 years
+**How long have you been programming**: For about 1 year
 
-**Interests**: Music, Cycling
+**Interests**: Books and music
 
-**Location**: Russia, Yaroslavl
+**Location**: New Jersey, USA (but I am Brazilian)
