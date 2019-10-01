@@ -51,3 +51,16 @@
 **Interests**: Books
 
 **Location**: Dallas, USA
+
+#### --- 4 ---
+**Name**: [Alexander Ruf](https://github.com/alexruf)
+
+**Programming Language**: Java, Go
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: For about 15 years
+
+**Interests**: Games, Computers, TV series
+
+**Location**: Germany
