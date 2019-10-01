@@ -38,3 +38,16 @@
 **Interests**: TV Series, games, music and mithology
 
 **Location**: Brazil, Irará
+
+#### --- 3 ---
+**Name**: [Sruthi Vinukonda](https://github.com/sruthiv)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 2 years
+
+**Interests**: Books
+
+**Location**: Dallas, USA
