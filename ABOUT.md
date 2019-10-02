@@ -155,3 +155,17 @@
 **Interests**: Playing Games, watch movies
 
 **Location**: Poland
+
+#### --- 12 ---
+**Name**: [Pesko](https://github.com/peskoo)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 1 year
+
+**Interests**: Unicorn and Kayak
+
+**Location**: France, Paris
+
