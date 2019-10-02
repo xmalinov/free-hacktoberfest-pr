@@ -53,6 +53,58 @@
 **Location**: Dallas, USA
 
 #### --- 4 ---
+**Name**: [Alexander Ruf](https://github.com/alexruf)
+
+**Programming Language**: Java, Go
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: For about 15 years
+
+**Interests**: Games, Computers, TV series
+
+**Location**: Germany
+
+#### --- 5 ---
+**Name**: [Shani](https://github.com/shanirub)
+
+**Programming Language**: Java, Javascript, C, Turbo Pascal
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 20 years
+
+**Interests**: Family, politics, netflix
+
+**Location**: Leipzig, Germany
+
+#### --- 6 ---
+**Name**: [Ramona Saintandre](https://github.com/thenewmona)
+
+**Programming Language**: HTML/CSS
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 1 year 6months
+
+**Interests**: crocheting, spending time with the grandkids,coding, meetups, photography ,church
+
+**Location**: Wyoming, Michigan (origially from Germany)
+
+#### --- 7 ---
+**Name**: [Tom Davis](https://github.com/Kat35601)
+
+**Programming Language**: PHP
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 30
+
+**Interests**: Computers
+
+**Location**: USA, Decatur
+
+#### --- 8 ---
 **Name**: [Ryan Travis](https://github.com/omgitsgod)
 
 **Programming Language**: JavaScript
@@ -61,6 +113,6 @@
 
 **How long have you been programming**: 1.5 years
 
-**Interests**: [physics, politics, self growth]
+**Interests**: physics, politics, self growth
 
 **Location**: USA, NYC
