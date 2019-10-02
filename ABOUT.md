@@ -129,3 +129,16 @@
 **Interests**: Playing Games, attempting competitive coding
 
 **Location**: India, Bangalore
+
+#### --- 10 ---
+**Name**: [Dmitry Smirnov](https://github.com/7mirnoff)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: For about 1 year
+
+**Interests**: walks in the open air
+
+**Location**: Russia, Yaroslavl
