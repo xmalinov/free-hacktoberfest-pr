@@ -157,6 +157,45 @@
 **Location**: Poland
 
 #### --- 12 ---
+**Name**: [Quarta](https://github.com/qandrea)
+
+**Programming Language**: Scala, Java
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2 years
+
+**Interests**: Math, watch movies
+
+**Location**: Italy
+
+#### --- 13 ---
+**Name**: [Romain](https://github.com/romaixn)
+
+**Programming Language**: PHP, Python, Javascript, Go
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 4 years
+
+**Interests**: Series/Movies
+
+**Location**: France
+
+#### --- 14 ---
+**Name**: [Juwana](https://github.com/JZerman2018)
+
+**Programming Language**: HTML/CSS, getting into Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 1.5 years
+
+**Interests**: reading, listening to music, catching up on tv shows
+
+**Location**: USA, Jacksonville
+
+#### --- 15 ---
 **Name**: [Pesko](https://github.com/peskoo)
 
 **Programming Language**: Python
@@ -168,4 +207,3 @@
 **Interests**: Unicorn and Kayak
 
 **Location**: France, Paris
-
