@@ -181,3 +181,16 @@
 **Interests**: Series/Movies
 
 **Location**: France
+
+#### --- 13 ---
+**Name**: [Juwana](https://github.com/JZerman2018)
+
+**Programming Language**: HTML/CSS, getting into Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 1.5 years
+
+**Interests**: reading, listening to music, catching up on tv shows
+
+**Location**: USA, Jacksonville
