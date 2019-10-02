@@ -194,3 +194,16 @@
 **Interests**: reading, listening to music, catching up on tv shows
 
 **Location**: USA, Jacksonville
+
+#### --- 14 ---
+**Name**: [Pranesh](https://github.com/pranesh-sp)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2 years
+
+**Interests**: Siege, Cricket, Food
+
+**Location**: Coimbatore, India
