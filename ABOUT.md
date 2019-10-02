@@ -40,6 +40,32 @@
 **Location**: Brazil, Irará
 
 #### --- 3 ---
+**Name**: [Sruthi Vinukonda](https://github.com/sruthiv)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 2 years
+
+**Interests**: Books
+
+**Location**: Dallas, USA
+
+#### --- 4 ---
+**Name**: [Alexander Ruf](https://github.com/alexruf)
+
+**Programming Language**: Java, Go
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: For about 15 years
+
+**Interests**: Games, Computers, TV series
+
+**Location**: Germany
+
+#### --- 5 ---
 **Name**: [Shani](https://github.com/shanirub)
 
 **Programming Language**: Java, Javascript, C, Turbo Pascal
