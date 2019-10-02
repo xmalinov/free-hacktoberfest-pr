@@ -116,3 +116,16 @@
 **Interests**: physics, politics, self growth
 
 **Location**: USA, NYC
+
+#### --- 9 ---
+**Name**: [Md Akram Kazmi](https://github.com/akramkazmi71)
+
+**Programming Language**: Python, C, C++
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 5/2
+
+**Interests**: Playing Games, attempting competitive coding
+
+**Location**: India, Bangalore
