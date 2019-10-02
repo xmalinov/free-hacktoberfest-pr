@@ -142,3 +142,16 @@
 **Interests**: walks in the open air
 
 **Location**: Russia, Yaroslavl
+
+#### --- 11 ---
+**Name**: [Andrea Q](https://github.com/andrea1015)
+
+**Programming Language**: Python, C, Java
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 5 years
+
+**Interests**: Playing Games, watch movies
+
+**Location**: Poland
