@@ -64,3 +64,16 @@
 **Interests**: Games, Computers, TV series
 
 **Location**: Germany
+
+#### --- 5 ---
+**Name**: [Shani](https://github.com/shanirub)
+
+**Programming Language**: Java, Javascript, C, Turbo Pascal
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 20 years
+
+**Interests**: Family, politics, netflix
+
+**Location**: Leipzig, Germany
