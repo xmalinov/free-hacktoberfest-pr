@@ -155,3 +155,16 @@
 **Interests**: Playing Games, watch movies
 
 **Location**: Poland
+
+#### --- 11 ---
+**Name**: [Quarta](https://github.com/qandrea)
+
+**Programming Language**: Scala, Java
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2 years
+
+**Interests**: Math, watch movies
+
+**Location**: Italy
