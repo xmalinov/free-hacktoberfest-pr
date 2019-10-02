@@ -168,3 +168,16 @@
 **Interests**: Math, watch movies
 
 **Location**: Italy
+
+#### --- 12 ---
+**Name**: [Romain](https://github.com/romaixn)
+
+**Programming Language**: PHP, Python, Javascript, Go
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 4 years
+
+**Interests**: Series/Movies
+
+**Location**: France
