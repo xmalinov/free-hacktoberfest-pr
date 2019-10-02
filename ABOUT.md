@@ -51,3 +51,16 @@
 **Interests**: Books
 
 **Location**: Dallas, USA
+
+#### --- 4 ---
+**Name**: [Ryan Travis](https://github.com/omgitsgod)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 1.5 years
+
+**Interests**: [physics, politics, self growth]
+
+**Location**: USA, NYC
