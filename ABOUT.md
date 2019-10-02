@@ -90,3 +90,16 @@
 **Interests**: crocheting, spending time with the grandkids,coding, meetups, photography ,church
 
 **Location**: Wyoming, Michigan (origially from Germany)
+
+#### --- 7 ---
+**Name**: [Tom Davis](https://github.com/Kat35601)
+
+**Programming Language**: PHP
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 30
+
+**Interests**: Computers
+
+**Location**: USA, Decatur
