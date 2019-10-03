@@ -220,3 +220,16 @@
 **Interests**: Unicorn and Kayak
 
 **Location**: France, Paris
+
+#### --- 17 ---
+**Name**: [Pranesh](https://github.com/pranesh-sp)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2 years
+
+**Interests**: Siege, Cricket, Food
+
+**Location**: Coimbatore, India
