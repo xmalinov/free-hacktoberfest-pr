@@ -194,3 +194,16 @@
 **Interests**: reading, listening to music, catching up on tv shows
 
 **Location**: USA, Jacksonville
+
+#### --- 14 ---
+**Name**: [Niranjan Hegde](https://github.com/niranjanhegde144)
+
+**Programming Language**: Python, Java, C, C++, SQL
+
+**Contributed to OSS**: no 
+
+**How long have you been programming**: 4.5 years
+
+**Interests**: Playing video games, Coding
+
+**Location**: India, Bangalore
