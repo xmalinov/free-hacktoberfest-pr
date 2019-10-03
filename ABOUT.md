@@ -156,7 +156,7 @@
 
 **Location**: Poland
 
-#### --- 11 ---
+#### --- 12 ---
 **Name**: [Quarta](https://github.com/qandrea)
 
 **Programming Language**: Scala, Java
@@ -169,7 +169,7 @@
 
 **Location**: Italy
 
-#### --- 12 ---
+#### --- 13 ---
 **Name**: [Romain](https://github.com/romaixn)
 
 **Programming Language**: PHP, Python, Javascript, Go
@@ -182,7 +182,7 @@
 
 **Location**: France
 
-#### --- 13 ---
+#### --- 14 ---
 **Name**: [Juwana](https://github.com/JZerman2018)
 
 **Programming Language**: HTML/CSS, getting into Python
@@ -195,7 +195,33 @@
 
 **Location**: USA, Jacksonville
 
-#### --- 14 ---
+#### --- 15 ---
+**Name**: [arturzealves](https://github.com/arturzealves)
+
+**Programming Language**: PHP, Javascript, GDScript
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 15 years
+
+**Interests**: listening to music, playing drums, playing and develop games
+
+**Location**: Portugal, Lisbon
+
+#### --- 16 ---
+**Name**: [Pesko](https://github.com/peskoo)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 1 year
+
+**Interests**: Unicorn and Kayak
+
+**Location**: France, Paris
+
+#### --- 17 ---
 **Name**: [Pranesh](https://github.com/pranesh-sp)
 
 **Programming Language**: Python
