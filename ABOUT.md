@@ -272,3 +272,16 @@
 **Interests**: reading, teaching young children, dogs and animals with fur
 
 **Location**: Malaysia, Selangor
+
+#### --- 21 ---
+**Name**: [Judy](https://github.com/judyz01)
+
+**Programming Language**: Java, Python
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: ~1 year
+
+**Interests**: riddles, escape rooms, annoying my cat
+
+**Location**: California, USA
