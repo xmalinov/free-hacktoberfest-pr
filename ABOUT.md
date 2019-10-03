@@ -194,3 +194,16 @@
 **Interests**: reading, listening to music, catching up on tv shows
 
 **Location**: USA, Jacksonville
+
+#### --- 14 ---
+**Name**: [Judy](https://github.com/judyz01)
+
+**Programming Language**: Java, Python
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: ~1 year
+
+**Interests**: riddles, escape rooms, annoying my cat
+
+**Location**: California, USA
