@@ -233,3 +233,16 @@
 **Interests**: Siege, Cricket, Food
 
 **Location**: Coimbatore, India
+
+#### --- 18 ---
+**Name**: [Ryan](https://github.com/rmehri01)
+
+**Programming Language**: Java
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 2 years
+
+**Interests**: Listening to music, going to the gym, reading, and keeping up with tech
+
+**Location**: Canada, Vancouver
