@@ -285,3 +285,16 @@
 **Interests**: riddles, escape rooms, annoying my cat
 
 **Location**: California, USA
+
+#### --- 22 ---
+**Name**: [Aayush Bansal](https://github.com/dDab-panda)
+
+**Programming Language** : HTML/CSS/Javascript, learning Python and Django
+
+**Contributed to OSS**: This is my first time
+
+**How long have you been programming**: 1 year
+
+**Interests**: Music, Standup Comedy, Learning new stuff everyday
+
+**Location**: India
