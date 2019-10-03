@@ -194,3 +194,16 @@
 **Interests**: reading, listening to music, catching up on tv shows
 
 **Location**: USA, Jacksonville
+
+#### --- 14 ---
+**Name**: [arturzealves](https://github.com/arturzealves)
+
+**Programming Language**: PHP, Javascript, GDScript
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 15 years
+
+**Interests**: listening to music, playing drums, playing and develop games
+
+**Location**: Portugal, Lisbon
