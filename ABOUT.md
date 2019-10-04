@@ -298,3 +298,16 @@
 **Interests**: Music, Standup Comedy, Learning new stuff everyday
 
 **Location**: India
+
+#### --- 23 ---
+**Name**: [Alex](https://github.com/EAtrey)
+
+**Programming Language** : HTML/CSS/Javascript, PHP, Java
+
+**Contributed to OSS**: Nope
+
+**How long have you been programming**: 12 years
+
+**Interests**: Family, Technology, Sports, Chasing my best self
+
+**Location**: USA
