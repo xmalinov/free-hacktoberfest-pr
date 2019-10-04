@@ -252,7 +252,7 @@
 
 **Programming Language**: Python, Java, C, C++, SQL
 
-**Contributed to OSS**: no 
+**Contributed to OSS**: no
 
 **How long have you been programming**: 4.5 years
 
@@ -298,3 +298,16 @@
 **Interests**: Music, Standup Comedy, Learning new stuff everyday
 
 **Location**: India
+
+#### --- 23 ---
+**Name** [Guido Sanchez](https://github.com/Guido2k)
+
+**Programming Language** : HTML/CSS/JS, learning others
+
+**Contributed to OSS**: Learning, this helps
+
+**How long have you been programming**: 1 year
+
+**Interests**: Learning, Horror Movies, Hockey
+
+**Location**: Canada
