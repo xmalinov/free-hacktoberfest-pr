@@ -334,5 +334,7 @@
 
 **How long have you been programming**: [3 years]
 
-**Interests**: [Flipping 0s & 1s]
+**Interests**: [Flipping 0s & 1s, Messing up with Linux]
+
+**Location**: India
 
