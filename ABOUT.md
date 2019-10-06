@@ -324,3 +324,15 @@
 **Interests**: Learning, Horror Movies, Hockey
 
 **Location**: Canada
+
+#### --- 25 ---
+**Name**: [Rajkumar S](https://github.com/rajkumaar23)
+
+**Programming Language**: [PHP,Java]
+
+**Contributed to OSS**: [yes]
+
+**How long have you been programming**: [3 years]
+
+**Interests**: [Flipping 0s & 1s]
+
