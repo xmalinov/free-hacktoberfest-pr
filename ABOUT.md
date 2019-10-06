@@ -324,3 +324,16 @@
 **Interests**: Learning, Horror Movies, Hockey
 
 **Location**: Canada
+
+#### --- 25 ---
+**Name** [Justin Frederiksen](https://github.com/Sparksong)
+
+**Programming Language** : Mostly Java, getting better at React / JS currently.
+
+**Contributed to OSS**: No.
+
+**How long have you been programming**: 3.5 years
+
+**Interests**: Video games, board games, traveling, studying, coding.
+
+**Location**: United States
