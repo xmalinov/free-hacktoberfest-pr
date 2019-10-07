@@ -351,3 +351,16 @@
 **Interests**: Poker, Chess, Reading
 
 **Location**: Council Bluffs, Iowa, USA
+
+#### --- 27 ---
+**Name** [Sonu Sharma](https://github.com/sonusharma07)
+
+**Programming Language** : Typescript, Python, Java
+
+**Contributed to OSS**: No 
+
+**How long have you been programming**: 1 year
+
+**Interests**: Learning, Programming 
+
+**Location**: India
