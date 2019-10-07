@@ -326,6 +326,70 @@
 **Location**: Canada
 
 #### --- 25 ---
+**Name**: [Adriana JL](https://https://github.com/adzika/)
+
+**Programming Language**: HTML/CSS, Vue
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: ~2 years
+
+**Interests**: Learning, programming, herbalism, food, books, board games
+
+**Location**: Ireland, Tramore (but I'm Polish)
+
+#### --- 26 ---
+**Name** [Herb Wolfe](https://github.com/hwolfe71)
+
+**Programming Language** : C & Java are my preferred languages
+
+**Contributed to OSS**: Just a couple of perl scripts so far
+
+**How long have you been programming**: Off and on, since I was about 9 or
+10, so almost 40 years
+
+**Interests**: Poker, Chess, Reading
+
+**Location**: Council Bluffs, Iowa, USA
+
+#### --- 27 ---
+**Name** [Sonu Sharma](https://github.com/sonusharma07)
+
+**Programming Language** : Typescript, Python, Java
+
+**Contributed to OSS**: No 
+
+**How long have you been programming**: 1 year
+
+**Interests**: Learning, Programming 
+
+**Location**: India
+
+#### --- 28 ---
+**Name**: [Rajkumar S](https://github.com/rajkumaar23)
+
+**Programming Language**: PHP,Java
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 3 years
+
+**Interests**: Flipping 0s & 1s, Messing up with Linux
+
+#### --- 29 ---
+**Name** [Manisha Tiwari](https://github.com/manishatiwari393)
+
+**Programming Language** : HTML/CSS, C, C++, Java
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 4 year
+
+**Interests**: Movies, Coding
+
+**Location**: India
+
+#### --- 30 ---
 **Name** [Justin Frederiksen](https://github.com/Sparksong)
 
 **Programming Language** : Mostly Java, getting better at React / JS currently.
