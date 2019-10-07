@@ -401,3 +401,16 @@
 **Interests**: Video games, board games, traveling, studying, coding.
 
 **Location**: United States
+
+#### --- 31 ---
+**Name**: [Dmitry](https://github.com/Dmitry-Sm)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 3 year
+
+**Interests**: Movies, coding
+
+**Location**: Russia, Yaroslavl
