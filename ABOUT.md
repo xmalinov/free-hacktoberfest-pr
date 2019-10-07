@@ -337,3 +337,17 @@
 **Interests**: Learning, programming, herbalism, food, books, board games
 
 **Location**: Ireland, Tramore (but I'm Polish)
+
+#### --- 26 ---
+**Name** [Herb Wolfe](https://github.com/hwolfe71)
+
+**Programming Language** : C & Java are my preferred languages
+
+**Contributed to OSS**: Just a couple of perl scripts so far
+
+**How long have you been programming**: Off and on, since I was about 9 or
+10, so almost 40 years
+
+**Interests**: Poker, Chess, Reading
+
+**Location**: Council Bluffs, Iowa, USA
