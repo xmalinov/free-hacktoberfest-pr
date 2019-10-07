@@ -326,6 +326,19 @@
 **Location**: Canada
 
 #### --- 25 ---
+**Name**: [Adriana JL](https://https://github.com/adzika/)
+
+**Programming Language**: HTML/CSS, Vue
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: ~2 years
+
+**Interests**: Learning, programming, herbalism, food, books, board games
+
+**Location**: Ireland, Tramore (but I'm Polish)
+
+#### --- 26 ---
 **Name** [Herb Wolfe](https://github.com/hwolfe71)
 
 **Programming Language** : C & Java are my preferred languages
