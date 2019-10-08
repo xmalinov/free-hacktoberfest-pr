@@ -428,7 +428,7 @@
 
 **Location**: India
 
-#### --- 32 ---
+#### --- 33 ---
 **Name**: [Srishilesh P S](https://github.com/srishilesh)
 
 **Programming Language** : Python, Java, C, JavaScript
@@ -441,7 +441,20 @@
 
 **Location** : India
 
-#### --- 33 ---
+#### --- 34 ---
+**Name**: [Anya Kovalevskaya](https://github.com/AnyaKovalevskaya)
+
+**Programming Language**: Design
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 1 year
+
+**Interests**: Movies, design
+
+**Location**: Russia, Yaroslavl
+
+#### --- 35 ---
 **Name**: [Saiharsha B](https://github.com/cyberShaw)
 
 **Programming Language**: Python, JavaScript
