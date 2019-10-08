@@ -440,3 +440,16 @@
 **Interests** : Football, Reading books, Video games, Coding
 
 **Location** : India
+
+#### --- 34 ---
+**Name**: [Anya Kovalevskaya](https://github.com/AnyaKovalevskaya)
+
+**Programming Language**: Design
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 1 year
+
+**Interests**: Movies, design
+
+**Location**: Russia, Yaroslavl
