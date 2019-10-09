@@ -491,4 +491,4 @@
 
 **Interests**: Web development,Mobile development, ,coding ,books, traveling , Basketball
 
-**Location**: Cameroon, Buea 
+**Location**: Cameroon, Buea   
