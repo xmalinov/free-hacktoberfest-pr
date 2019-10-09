@@ -479,3 +479,16 @@
 **Interests**: Web development, coding, video games, music, movies
 
 **Location**: Glenrothes, Scotland
+
+#### --- 37 ---
+**Name**: [Mbino Ruth](https://github.com/RuthAtem)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2years
+
+**Interests**: Technology, Music, Food
+
+**Location**: Cameroon, Buea
