@@ -480,10 +480,24 @@
 
 **Location**: Glenrothes, Scotland
 
-#### ---- 37 ---
+#### --- 37 ---
+**Name**: [Mbino Ruth](https://github.com/RuthAtem)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2years
+
+**Interests**: Technology, Music, Food
+
+**Location**: Cameroon, Buea
+
+
+#### ---- 38 ---
 **Name**: [Ebai Jenniline](https://github.com/Jenniline)
 
-**Programming Language**: HTML/CSS ,PHP, JavaScript
+**Programming Language**: HTML/CSS ,PHP, JavaScript, C
 
 **Contributed to OSS**: Yes
 
