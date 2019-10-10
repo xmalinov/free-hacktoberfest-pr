@@ -493,15 +493,28 @@
 
 **Location**: Cameroon, Buea
 
-#### --- 38 ---
+#### ---- 38 ---
+**Name**: [Ebai Jenniline](https://github.com/Jenniline)
+
+**Programming Language**: HTML/CSS ,PHP, JavaScript, C
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 2 years
+
+**Interests**: Web development,Mobile development, coding ,books, traveling , Basketball
+
+**Location**: Cameroon, Buea   
+
+#### ---- 39 ---
 **Name**: [Joas Antonio](https://github.com/CyberSecurityUP/)
 
-**Programming Language**: [Python]
+**Programming Language**: Python
 
-**Contributed to OSS**: [yes]
+**Contributed to OSS**: yes
 
-**How long have you been programming**: [4 years]
+**How long have you been programming**: 4 years
 
-**Interests**: [Information Security, Hacking, Programming]
+**Interests**: Information Security, Hacking, Programming
 
 **Location**: [SP, Brazil]
