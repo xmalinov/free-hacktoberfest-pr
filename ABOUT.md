@@ -493,7 +493,6 @@
 
 **Location**: Cameroon, Buea
 
-
 #### ---- 38 ---
 **Name**: [Ebai Jenniline](https://github.com/Jenniline)
 
@@ -503,6 +502,19 @@
 
 **How long have you been programming**: 2 years
 
-**Interests**: Web development,Mobile development, ,coding ,books, traveling , Basketball
+**Interests**: Web development,Mobile development, coding ,books, traveling , Basketball
 
 **Location**: Cameroon, Buea   
+
+#### ---- 39 ---
+**Name**: [Joas Antonio](https://github.com/CyberSecurityUP/)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 4 years
+
+**Interests**: Information Security, Hacking, Programming
+
+**Location**: [SP, Brazil]
