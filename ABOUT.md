@@ -519,7 +519,7 @@
 
 **Location**: [SP, Brazil]
 
-#### ---- 40 ---
+#### --- 40 ---
 **Name**: [Fernando Ginez da Silva](https://github.com/fginez)
 
 **Programming Language**: C & C++
@@ -530,4 +530,4 @@
 
 **Interests**: Embedded Systems, Electronics, Cryptography, Software Engineering
 
-**Location**: [Osasco, Brazil]
+**Location**: [Osasco, Brazil](https://www.google.com/maps/place/Osasco)
