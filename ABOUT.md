@@ -518,3 +518,16 @@
 **Interests**: Information Security, Hacking, Programming
 
 **Location**: [SP, Brazil]
+
+#### --- 40 ---
+**Name**: [Fernando Ginez da Silva](https://github.com/fginez)
+
+**Programming Language**: C & C++
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 10 years
+
+**Interests**: Embedded Systems, Electronics, Cryptography, Software Engineering
+
+**Location**: [Osasco, Brazil](https://www.google.com/maps/place/Osasco)
