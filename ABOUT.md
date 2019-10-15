@@ -531,3 +531,17 @@
 **Interests**: Embedded Systems, Electronics, Cryptography, Software Engineering
 
 **Location**: [Osasco, Brazil](https://www.google.com/maps/place/Osasco)
+
+
+#### --- 41 ---
+**Name**: [Alley Pereira ](https://github.com/All3yp)
+
+**Programming Language**: Python & Swift
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 1 year
+
+**Interests**: Capture The flag, Cybersecurity, Music, Coding
+
+**Location**: [Fortaleza, Brazil](https://www.google.com/maps/place/Fortaleza)
