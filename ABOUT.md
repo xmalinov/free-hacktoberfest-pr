@@ -544,3 +544,16 @@
 **Interests**: Gaming, anime, webDev, Cryptogaphy, CyberSecurity, Manga
 
 **Location**: [India, Bengaluru]
+
+#### --- 42 ---
+**Name**: [Alley Pereira ](https://github.com/All3yp)
+
+**Programming Language**: Python & Swift
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 1 year
+
+**Interests**: Capture The flag, Cybersecurity, Music, Coding
+
+**Location**: [Fortaleza, Brazil](https://www.google.com/maps/place/Fortaleza)
