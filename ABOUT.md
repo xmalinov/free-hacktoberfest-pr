@@ -533,6 +533,32 @@
 **Location**: [Osasco, Brazil](https://www.google.com/maps/place/Osasco)
 
 #### --- 41 ---
+**Name**: Shreyans Padmanaban(https://github.com/shreyans-padmanaban)
+
+**Programming Language**: C and C++
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 4 years
+
+**Interests**: Gaming, anime, webDev, Cryptogaphy, CyberSecurity, Manga
+
+**Location**: [India, Bengaluru]
+
+#### --- 42 ---
+**Name**: [Alley Pereira ](https://github.com/All3yp)
+
+**Programming Language**: Python & Swift
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 1 year
+
+**Interests**: Capture The flag, Cybersecurity, Music, Coding
+
+**Location**: [Fortaleza, Brazil](https://www.google.com/maps/place/Fortaleza)
+
+#### --- 43 ---
 **Name**: [Shamrilods](https://github.com/shamrilods)
 
 **Programming Language**: JavaScript
