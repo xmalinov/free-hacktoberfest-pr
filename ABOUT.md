@@ -531,3 +531,16 @@
 **Interests**: Embedded Systems, Electronics, Cryptography, Software Engineering
 
 **Location**: [Osasco, Brazil](https://www.google.com/maps/place/Osasco)
+
+#### --- 41 ---
+**Name**: [Shamrilods](https://github.com/shamrilods)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 2.5 years
+
+**Interests**: be lazy
+
+**Location**: Russia, Yaroslavl
