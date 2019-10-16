@@ -557,3 +557,16 @@
 **Interests**: Capture The flag, Cybersecurity, Music, Coding
 
 **Location**: [Fortaleza, Brazil](https://www.google.com/maps/place/Fortaleza)
+
+#### --- 43 ---
+**Name**: [Shamrilods](https://github.com/shamrilods)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 2.5 years
+
+**Interests**: be lazy
+
+**Location**: Russia, Yaroslavl
