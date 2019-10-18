@@ -583,3 +583,16 @@
 **Interests**: Cybersecurity, Music, sleep
 
 **Location**: [João Pessoa, Brazil](https://www.google.com/maps/place/João_Pessoa)
+
+#### --- 55 ---
+**Name**: [Ankit Anmol](https://github.com/ankitanmol)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 2 years
+
+**Interests**: Music
+
+**Location**: India, Greater Noida
