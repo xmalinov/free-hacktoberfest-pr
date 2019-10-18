@@ -583,3 +583,16 @@
 **Interests**: Cybersecurity, Music, sleep
 
 **Location**: [João Pessoa, Brazil](https://www.google.com/maps/place/João_Pessoa)
+
+#### --- 45 ---
+**Name**: [orditeck](https://github.com/orditeck)
+
+**Programming Language**: JavaScript, PHP, Python, Bash, C#
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: > 10 years
+
+**Interests**: Techs, IoT, coding
+
+**Location**: [Canada](https://www.google.com/maps/place/Canada)
