@@ -570,3 +570,16 @@
 **Interests**: be lazy
 
 **Location**: Russia, Yaroslavl
+
+#### --- 44 ---
+**Name**: [Edmilson júnior](https://github.com/sierghart)
+
+**Programming Language**: PHP, C
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 2 years
+
+**Interests**: Cybersecurity, Music, sleep
+
+**Location**: [João Pessoa, Brazil](https://www.google.com/maps/place/João_Pessoa)
