@@ -585,7 +585,7 @@
 **Location**: [João Pessoa, Brazil](https://www.google.com/maps/place/João_Pessoa)
 
 #### --- 1 ---
-**Name**: [Your name](https://github.com/your_profile_url)
+**Name**: [Tuanny Ruiz](https://github.com/tuannyruiz)
 
 **Programming Language**: Javascript
 
