@@ -596,3 +596,16 @@
 **Interests**: Gaming, Esport
 
 **Location**: Paris, France
+
+#### --- 46 ---
+**Name**: [Pankaj Singh](https://github.com/ps0305)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 3 years
+
+**Interests**: Music, Games, Coding
+
+**Location**: India, Bengaluru
