@@ -622,3 +622,16 @@
 **Interests**: Train Travel, Music & Nature
 
 **Location**: Somewhere in India
+
+#### --- 48 ---
+**Name**: [Tuanny Ruiz](https://github.com/tuannyruiz)
+
+**Programming Language**: Javascript
+
+**Contributed to OSS**: No :(
+
+**How long have you been programming**: 3 years
+
+**Interests**: The Office, music & sci-fi 
+
+**Location**: [Canada, Toronto]
