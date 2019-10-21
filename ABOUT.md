@@ -583,3 +583,16 @@
 **Interests**: Cybersecurity, Music, sleep
 
 **Location**: [João Pessoa, Brazil](https://www.google.com/maps/place/João_Pessoa)
+
+#### --- 45 ---
+**Name**: [Ashish](https://github.com/Ash1sh27)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2 years
+
+**Interests**: Train Travel, Music & Nature
+
+**Location**: Somewhere in India
