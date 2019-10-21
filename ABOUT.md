@@ -584,6 +584,19 @@
 
 **Location**: [João Pessoa, Brazil](https://www.google.com/maps/place/João_Pessoa)
 
+#### --- 45 ---
+**Name**: [Noelie RX](https://github.com/Noelierx)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 5 years
+
+**Interests**: Gaming, Esport
+
+**Location**: Paris, France
+
 #### --- 46 ---
 **Name**: [Pankaj Singh](https://github.com/ps0305)
 
