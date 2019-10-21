@@ -635,3 +635,16 @@
 **Interests**: The Office, music & sci-fi 
 
 **Location**: [Canada, Toronto]
+
+#### --- 49 ---
+**Name**: [Ankit Anmol](https://github.com/ankitanmol)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 2 years
+
+**Interests**: Music
+
+**Location**: India, Greater Noida
