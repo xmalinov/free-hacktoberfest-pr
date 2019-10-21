@@ -648,3 +648,16 @@
 **Interests**: Music
 
 **Location**: India, Greater Noida
+
+#### --- 50 ---
+**Name**: [Pierre](https://github.com/Schokobecher)
+
+**Programming Language**: Shell
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 8 years
+
+**Interests**: Travel, Cats, a clean Desktop, nice food, sitting in a (bash) shell all day
+
+**Location**: [Thailand, Germany, Singapore, Malaysia](https://en.wikipedia.org/wiki/Digital_nomad)
