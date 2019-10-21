@@ -584,7 +584,59 @@
 
 **Location**: [João Pessoa, Brazil](https://www.google.com/maps/place/João_Pessoa)
 
-#### --- 55 ---
+#### --- 45 ---
+**Name**: [Noelie RX](https://github.com/Noelierx)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 5 years
+
+**Interests**: Gaming, Esport
+
+**Location**: Paris, France
+
+#### --- 46 ---
+**Name**: [Pankaj Singh](https://github.com/ps0305)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 3 years
+
+**Interests**: Music, Games, Coding
+
+**Location**: India, Bengaluru
+
+#### --- 47 ---
+**Name**: [Ashish](https://github.com/Ash1sh27)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2 years
+
+**Interests**: Train Travel, Music & Nature
+
+**Location**: Somewhere in India
+
+#### --- 48 ---
+**Name**: [Tuanny Ruiz](https://github.com/tuannyruiz)
+
+**Programming Language**: Javascript
+
+**Contributed to OSS**: No :(
+
+**How long have you been programming**: 3 years
+
+**Interests**: The Office, music & sci-fi 
+
+**Location**: [Canada, Toronto]
+
+#### --- 49 ---
 **Name**: [Ankit Anmol](https://github.com/ankitanmol)
 
 **Programming Language**: Python
