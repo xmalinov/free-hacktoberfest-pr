@@ -674,3 +674,16 @@
 **Interests**: Music, sleep
 
 **Location**: India, New Delhi
+
+#### --- 52 ---
+**Name**: [Anshika Soni](https://github.com/anshikasoni)
+
+**Programming Language**: C, Java, Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 2.2 years
+
+**Interests**: Music, Writing
+
+**Location**: Greater Noida, New Delhi
