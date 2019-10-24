@@ -674,3 +674,17 @@
 **Interests**: Music, sleep
 
 **Location**: India, New Delhi
+
+#### --- 52 ---
+**Name**: [balasbk](https://github.com/balasbk)
+
+**Programming Language**: C, Java, Python
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 3 years
+
+**Interests**: coding, gaming
+
+**Location**: India, coimbatore
+
