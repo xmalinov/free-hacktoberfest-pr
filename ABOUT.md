@@ -676,6 +676,45 @@
 **Location**: India, New Delhi
 
 #### --- 52 ---
+**Name**: [Hansraj](https://github.com/hansrajd)
+
+**Programming Language**: Python, C
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 8 years
+
+**Interests**: Movies, Chess, Music, Sleep
+
+**Location**: Delhi, India
+
+#### --- 53 ---
+**Name**: [Anshika Soni](https://github.com/anshikasoni)
+
+**Programming Language**: C, Java, Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 2.2 years
+
+**Interests**: Music, Writing
+
+**Location**: Greater Noida, New Delhi
+
+#### --- 54 ---
+**Name** :[MAHIMA KRITI](https://github.com/MAHIMAKRITI)
+
+**Programming Language**: C,C++,Python
+
+**Contributed to OSS**:yes(trying to)
+
+**How long have you been programming**:4 years
+
+**Interests**:Painting,reading,origami
+
+**Location**:NIT Durgapur, India
+
+#### --- 55 ---
 **Name**: [Geethesh T G](https://github.com/geetheshtg)
 
 **Programming Language**: C++, Java, Python
