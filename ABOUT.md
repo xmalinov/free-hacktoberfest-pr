@@ -752,3 +752,17 @@
 **Interests**: Doodling, Music
 
 **Location**: India, Bihar
+
+#### --- 58 ---
+**Name**: [Richa Kumari](https://github.com/Richa123-Acc)
+
+**Programming Language**: Java
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 1 years
+
+**Interests**: Dancing
+
+**Location**: India, Bihar
+
