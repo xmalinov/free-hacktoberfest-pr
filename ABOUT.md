@@ -676,6 +676,19 @@
 **Location**: India, New Delhi
 
 #### --- 52 ---
+**Name**: [Hansraj](https://github.com/hansrajd)
+
+**Programming Language**: Python, C
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 8 years
+
+**Interests**: Movies, Chess, Music, Sleep
+
+**Location**: Delhi, India
+
+#### --- 53 ---
 **Name**: [Anshika Soni](https://github.com/anshikasoni)
 
 **Programming Language**: C, Java, Python
