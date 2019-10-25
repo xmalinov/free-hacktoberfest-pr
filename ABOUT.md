@@ -674,3 +674,16 @@
 **Interests**: Music, sleep
 
 **Location**: India, New Delhi
+
+#### --- 52 ---
+**Name**: [Vishal Kumar](https://github.com/vishalx360)
+
+**Programming Language**: Bash, Javascript, Python
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 3 years
+
+**Interests**: Doodling, Music
+
+**Location**: India, Bihar
