@@ -700,3 +700,16 @@
 **Interests**: Music, Writing
 
 **Location**: Greater Noida, New Delhi
+
+#### --- 54 ---
+**Name** :[MAHIMA KRITI](https://github.com/MAHIMAKRITI)
+
+**Programming Language**: C,C++,Python
+
+**Contributed to OSS**:yes(trying to)
+
+**How long have you been programming**:4 years
+
+**Interests**:Painting,reading,origami
+
+**Location**:NIT Durgapur, India
