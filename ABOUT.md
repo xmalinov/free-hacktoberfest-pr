@@ -752,3 +752,17 @@
 **Interests**: Doodling, Music
 
 **Location**: India, Bihar
+
+#### --- 58 ---
+**Name**: [Naman Rai](https://github.com/namanrai)
+
+**Programming Language**: Javascript, Python, CSS, HTML 
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 6 months
+
+**Interests**: Doodling, Gaming, Music
+
+**Location**: India, Kanpur
+
