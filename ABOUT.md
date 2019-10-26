@@ -752,3 +752,16 @@
 **Interests**: Doodling, Music
 
 **Location**: India, Bihar
+
+#### --- 58 ---
+**Name**: [Maggie Huang](https://github.com/itsmaggiemay)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 5 years
+
+**Interests**: Food, Movies, Tv
+
+**Location**: New York, NY
