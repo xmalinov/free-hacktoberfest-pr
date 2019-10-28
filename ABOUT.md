@@ -804,3 +804,15 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+#### --- 62 ---
+**Name**: [Prabal Gupta](https://github.com/prabalgupta12)
+
+**Programming Language** : C,C++,Python,Javascript,Python
+
+**Contributed to OSS**: This is my first time
+
+**How long have you been programming**: 1 year
+
+**Interests**: Music, Standup Comedy, Learning new stuff everyday
+
+**Location**: India
