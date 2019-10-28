@@ -778,3 +778,16 @@
 **Interests**: Dancing
 
 **Location**: India, Bihar
+
+#### --- 60 ---
+**Name**: [Ilya lubimov](https://github.com/lubimovilya)
+
+**Programming Language**: C++
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 7
+
+**Interests**: be lazy
+
+**Location**: Russia, Yaroslavl
