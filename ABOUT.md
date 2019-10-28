@@ -752,7 +752,34 @@
 **Interests**: Doodling, Music
 
 **Location**: India, Bihar
+
 #### --- 58 ---
+**Name**: [Naman Rai](https://github.com/namanrai)
+
+**Programming Language**: Javascript, Python, CSS, HTML 
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 6 months
+
+**Interests**: Doodling, Gaming, Music
+
+**Location**: India, Kanpur
+
+#### --- 59 ---
+**Name**: [Richa Kumari](https://github.com/Richa123-Acc)
+
+**Programming Language**: Java
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 1 years
+
+**Interests**: Dancing
+
+**Location**: India, Bihar
+
+#### --- 60 ---
 **Name**: [Ilya lubimov](https://github.com/lubimovilya)
 
 **Programming Language**: C++
