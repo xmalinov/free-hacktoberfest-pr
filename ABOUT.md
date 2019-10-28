@@ -791,3 +791,16 @@
 **Interests**: be lazy
 
 **Location**: Russia, Yaroslavl
+
+#### --- 61 ---
+**Name**: [Maggie Huang](https://github.com/itsmaggiemay)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 5 years
+
+**Interests**: Food, Movies, Tv
+
+**Location**: New York, NY
