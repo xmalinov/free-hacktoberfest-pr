@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Antti-Pekka Lehtonen](https://github.com/apleht)
+
+**Programming Language**: C++
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 2 years
+
+**Interests**: Computers
+
+**Location**: Mikkeli, Finland
