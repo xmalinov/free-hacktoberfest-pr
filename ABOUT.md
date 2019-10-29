@@ -804,3 +804,18 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+
+#### --- 62 ---
+**Name**: [Joema Nequinto](https://github.com/JoemaNequinto)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 5 years
+
+**Interests**: Manga, Anime, Kdrama, Sleep
+
+**Location**: Laguna, Philippines
+
