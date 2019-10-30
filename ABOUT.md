@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Tor Andreas](https://github.com/andrujoh)
+
+**Programming Language**: Javascript, PHP
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 3 years
+
+**Interests**: Games, Barbeque, Drones
+
+**Location**: Vennesla, Norway
