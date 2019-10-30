@@ -808,7 +808,7 @@
 #### --- 62 ---
 **Name**: [Parvathi J Nair](https://github.com/ParvathiJNair)
 
-**Programming Language**: C
+**Programming Language**: C,C++,Python
 
 **Contributed to OSS**: No
 
