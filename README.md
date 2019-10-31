@@ -32,9 +32,9 @@ To contribute in a proper way so that I can merge the pull request:
 
     **Location**: [Country, City]
     ```
-4. Commit with a message.
+4. Commit with a polite message.
 5. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-6. Done!
+6. Wooho Done!
 
 
 #### Happy Hacktoberfest :tada: :fireworks:
