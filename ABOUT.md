@@ -804,3 +804,15 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+#### --- 1 ---
+**Name**: [John Jones](https://github.com/jjjilot)
+
+**Programming Language**: [JavaScript]
+
+**Contributed to OSS**: [No]
+
+**How long have you been programming**: [0 years / 3 months]
+
+**Interests**: [Playing piano, walking my dog, and biking]
+
+**Location**: [USA, OR]
