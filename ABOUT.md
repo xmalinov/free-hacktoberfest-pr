@@ -804,3 +804,17 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Joseph Whiunui](https://github.com/Joseph-Whiunui)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 3 years
+
+**Interests**: Guitar
+
+**Location**: Auckland, New Zealand
+
