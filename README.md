@@ -20,17 +20,17 @@ To contribute in a proper way so that I can merge the pull request:
 3. Edit the ABOUT.md file by adding this template at the end (insert your data to placeholders)
     ```
     #### --- 1 ---
-    **Name**: [Your name](https://github.com/your_profile_url)
+    **Name**: [Ajay Kunar] https://github.com/Ajay055
 
-    **Programming Language**: [Fav programming language]
+    **Programming Language**: [Javascript]
 
-    **Contributed to OSS**: [yes/no]
+    **Contributed to OSS**: [yes]
 
-    **How long have you been programming**: [year/months]
+    **How long have you been programming**: [1 year 2 months]
 
-    **Interests**: [everything_you_like]
+    **Interests**: [Music,Drawing]
 
-    **Location**: [Country, City]
+    **Location**: [Nepal, Kathmandu]
     ```
 4. Commit with a message.
 5. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
