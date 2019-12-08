@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Maximilian Kolb](https://github.com/maximiliankolb)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 1 year
+
+**Interests**: unix, cooking, politics, data science
+
+**Location**: Germany
