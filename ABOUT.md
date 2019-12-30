@@ -804,3 +804,17 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+
+#### --- 61 ---
+**Name**: [Gayathri Ethiraj](https://github.com/gayu-thri)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 5 years
+
+**Interests**: Food, Movies, Tv
+
+**Location**: India, Chennai
