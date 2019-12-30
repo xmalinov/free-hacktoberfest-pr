@@ -817,4 +817,4 @@
 
 **Interests**: Food, Movies, Tv
 
-**Location**: New York, NY
+**Location**: India, Chennai
