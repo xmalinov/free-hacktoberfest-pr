@@ -804,3 +804,15 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Dominik Walk](https://github.com/dominikwalk)
+
+**Programming Language**: Python
+**Contributed to OSS**: No
+
+**How long have you been programming**: 7 years
+
+**Interests**: data science, electrical engineering
+
+**Location**: Germany
