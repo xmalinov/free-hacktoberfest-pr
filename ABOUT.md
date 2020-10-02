@@ -793,6 +793,19 @@
 **Location**: Russia, Yaroslavl
 
 #### --- 61 ---
+**Name**: [WM Dieter](https://github.com/wmdieter)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 10
+
+**Interests**: Programming
+
+**Location**: Germany
+
+#### --- 62 ---
 **Name**: [Maggie Huang](https://github.com/itsmaggiemay)
 
 **Programming Language**: JavaScript
