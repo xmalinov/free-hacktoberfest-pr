@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Anurag](https://github.com/anurag060)
+
+**Programming Language**: JavaScript, python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 6 years
+
+**Interests**: Sports, IoT projects
+
+**Location**: India, Telangana
