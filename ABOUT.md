@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Dyaz Amru](https://github.com/dyazamru)
+
+**Programming Language**: PHP, Golang, HTML
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 6 years
+
+**Interests**: Movie, traveling, music
+
+**Location**: Bogor, Indonesia
