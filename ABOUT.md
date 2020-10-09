@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Zak Noble-Clarke](https://github.com/Seggys116/)
+
+**Programming Language**: C#
+
+**Contributed to OSS**: no
+
+**How long have you been programming**: 2 years
+
+**Interests**: Retro Games, Coding, Films/Series
+
+**Location**: UK, Guildford
