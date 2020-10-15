@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Tushar Sarkar](https://github.com/tusharsarkar3)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 1 year
+
+**Interests**:  Working out, travelling
+
+**Location**: India,Maharashtra
