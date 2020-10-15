@@ -812,7 +812,7 @@
 
 **Contributed to OSS**: No
 
-**How long have you been programming**: 1 years
+**How long have you been programming**: 1 year
 
 **Interests**:  Working out, travelling
 
