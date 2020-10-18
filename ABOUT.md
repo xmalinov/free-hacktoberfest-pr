@@ -804,3 +804,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [Maggie Huang](https://github.com/shamrilods)
+
+**Programming Language**: JavaScript
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 3 years
+
+**Interests**: Crossfit
+
+**Location**: Russia, Yaroslavl
