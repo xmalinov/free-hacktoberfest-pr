@@ -817,3 +817,16 @@
 **Interests**: Crossfit
 
 **Location**: Russia, Yaroslavl
+
+#### --- 63 ---
+**Name**: [Edison Huang](https://github.com/Silver077)
+
+**Programming Language**: Java
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 8 months
+
+**Interests**: Gaming, Music
+
+**Location**: Hsinchu, Taiwan
