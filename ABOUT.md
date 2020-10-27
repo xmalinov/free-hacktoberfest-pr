@@ -817,3 +817,16 @@
 **Interests**: Crossfit
 
 **Location**: Russia, Yaroslavl
+
+#### --- 63 ---
+**Name**: [Dominik Walk](https://github.com/dominikwalk)
+
+**Programming Language**: Python
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 9 years
+
+**Interests**: computer science
+
+**Location**: Germany, Munich
