@@ -357,11 +357,11 @@
 
 **Programming Language** : Typescript, Python, Java
 
-**Contributed to OSS**: No 
+**Contributed to OSS**: No
 
 **How long have you been programming**: 1 year
 
-**Interests**: Learning, Programming 
+**Interests**: Learning, Programming
 
 **Location**: India
 
@@ -504,7 +504,7 @@
 
 **Interests**: Web development,Mobile development, coding ,books, traveling , Basketball
 
-**Location**: Cameroon, Buea   
+**Location**: Cameroon, Buea
 
 #### ---- 39 ---
 **Name**: [Joas Antonio](https://github.com/CyberSecurityUP/)
@@ -632,7 +632,7 @@
 
 **How long have you been programming**: 3 years
 
-**Interests**: The Office, music & sci-fi 
+**Interests**: The Office, music & sci-fi
 
 **Location**: [Canada, Toronto]
 
@@ -756,7 +756,7 @@
 #### --- 58 ---
 **Name**: [Naman Rai](https://github.com/namanrai)
 
-**Programming Language**: Javascript, Python, CSS, HTML 
+**Programming Language**: Javascript, Python, CSS, HTML
 
 **Contributed to OSS**: no
 
@@ -817,3 +817,16 @@
 **Interests**: Crossfit
 
 **Location**: Russia, Yaroslavl
+
+#### --- 63 ---
+**Name**: [Joel Santos](https://github.com/mundodisco8)
+
+**Programming Language**: C
+
+**Contributed to OSS**: Yes
+
+**How long have you been programming**: 15 years
+
+**Interests**: Electronics, Videogames, Movies
+
+**Location**: London, UK
