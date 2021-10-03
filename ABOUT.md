@@ -817,3 +817,16 @@
 **Interests**: Crossfit
 
 **Location**: Russia, Yaroslavl
+
+#### --- 63 ---
+**Name**: [Abhishek Gupta](https://github.com/abhs06)
+
+**Programming Language**: JavaScript, Java, Python, C
+
+**Contributed to OSS**: No
+
+**How long have you been programming**: 5 years
+
+**Interests**: Web Dev, Movies, Reading
+
+**Location**: UP, India
